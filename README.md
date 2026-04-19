@@ -59,6 +59,6 @@ RushHourGame/
 ## Author
 
 Created by: Riya Patel
-Course Project – C++ Programming
+
 
 

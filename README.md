@@ -54,7 +54,10 @@ RushHourGame/
 └── README.md
 
 ## Demo
-<img width="917" height="809" alt="Screenshot 2026-04-19 at 1 37 19 PM" src="https://github.com/user-attachments/assets/df578fb1-10ea-4571-8200-6c41932549b5" />
+
+https://github.com/user-attachments/assets/927ff350-6ea1-4376-bf9c-7da1bfb422f7
+
+
 
 ## Author
 
